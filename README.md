@@ -27,8 +27,7 @@
 **Araçlar & Siber Güvenlik:**
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ### 🚀 Öne Çıkan Projelerim
 
@@ -51,8 +50,8 @@
 Eğer projelerim hakkında konuşmak, siber güvenlik veya yazılım mühendisliği üzerine fikir alışverişi yapmak istersen bana ulaşabilirsin:
 
 * 🌐 **Portfolyo:** [miracozcanagcabay.com](https://miracozcanagcabay.com)
-* 💼 **LinkedIn:** [Profilin İçin Buraya Link Ekle](https://linkedin.com/in/)
-* 📧 **Email:** [Mail Adresini Buraya Ekle]
+* 💼 **LinkedIn:** (https://www.linkedin.com/in/miracagcabay/)
+* 📧 **Email:** miracagcabay.se@gmail.com
 
 ---
 <p align="center"><i>"İyi bir mühendis, sadece çalışan kod yazan değil, aynı zamanda güvenli ve sürdürülebilir sistemler inşa edendir."</i></p>
