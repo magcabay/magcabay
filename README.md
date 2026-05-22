@@ -60,7 +60,7 @@ Java ekosistemini derinlemesine öğrenmeye odaklanmış, yeniliğe ve öğrenme
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=magcabay&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=magcabay&theme=github_dark" alt="Contribution Graph"/>
 </p>
 
 ---
