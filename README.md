@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/magcabay">
+  <a href="https://linkedin.com/in/miracagcabay">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:miracozcan@example.com">
+  <a href="mailto:miracagcabay.se@gmail.com">
     <img src="https://img.shields.io/badge/E--posta-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-posta"/>
+  </a>
+  <a href="https://www.miracozcanagcabay.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://github.com/magcabay">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
@@ -20,11 +23,13 @@
 
 ## 🙋‍♂️ Hakkımda
 
+Java ekosistemini derinlemesine öğrenmeye odaklanmış, yeniliğe ve öğrenmeye açık bir yazılım mühendisliği adayıyım. Temiz kod yazmayı, problem çözmeyi ve her gün bir öncekinden daha iyi bir geliştirici olmayı hedefliyorum.
+
 - 🎓 **Fırat Üniversitesi** Yazılım Mühendisliği öğrencisiyim
-- 🔭 Şu an farklı alanlara ilgi duyuyorum ve kendi tarzımı bulmak için öğreniyorum
-- 🌱 **Java** ve **Python** ile projeler geliştiriyorum
-- 💡 Yazılımın her alanına meraklıyım — henüz uzmanlık alanımı keşfediyorum
-- 🐧 Linux kullanmayı ve komut satırıyla çalışmayı seviyorum
+- ☕ **Java** alanında kendimi geliştiriyorum; OOP ve yazılım tasarımına önem veriyorum
+- 🌱 **Python** ile de projeler geliştiriyor, farklı paradigmaları keşfediyorum
+- 🐧 Linux ve komut satırı araçlarıyla çalışmayı seviyorum
+- 🌐 Kişisel web sitem: [miracozcanagcabay.com](https://www.miracozcanagcabay.com)
 
 ---
 
@@ -39,6 +44,14 @@
 
 ---
 
+## 📌 Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknolojiler |
+|-------|----------|-------------|
+| [Snake Game](https://github.com/magcabay/snake-game) | Java ile geliştirilmiş klasik Snake oyunu — OOP prensipleri ve Swing GUI kullanıldı | Java, Swing |
+
+---
+
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
@@ -46,16 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magcabay&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
----
-
-## 📌 Öne Çıkan Projeler
-
-> Buraya sabitlediğin repolardan 2-3 tanesini ekleyebilirsin. Örnek format:
-
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|-------------|
-| [Proje Adı](https://github.com/magcabay/proje-adi) | Kısa bir açıklama — ne iş yapıyor? | Java, Python |
-| [Proje Adı 2](https://github.com/magcabay/proje-adi-2) | Kısa bir açıklama | Python |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=magcabay&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
@@ -63,4 +69,4 @@
   <img src="https://komarev.com/ghpvc/?username=magcabay&color=blueviolet&style=flat" alt="Profil görüntülenme"/>
 </p>
 
-<p align="center"><em>Her gün bir şey öğren, her hafta bir şey yaz. 🚀</em></p>
+<p align="center"><em>Temiz kod yaz, düzenli commit at, her gün bir şey öğren. 🚀</em></p>
