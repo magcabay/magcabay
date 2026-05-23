@@ -106,8 +106,6 @@ class Miraç extends SoftwareEngineer {
 <div align="center">
 
 <img src="https://github-stats-alpha.vercel.app/api?username=magcabay&cc=0d1117&tc=2ea8e0&ic=6e40c9&bc=0d1117" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magcabay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2ea8e0&text_color=8b949e" height="160"/>
 
 </div>
 
