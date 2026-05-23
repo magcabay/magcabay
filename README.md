@@ -37,13 +37,15 @@
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magcabay&show_icons=true&theme=tokyonight" alt="Miraç'ın GitHub İstatistikleri" />
-</p>
+<div align="center">
+  
+  [![Miraç'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=magcabay&show_icons=true&theme=tokyonight)](https://github.com/magcabay)
+  
+  <br/>
+  
+  [![Miraç'ın GitHub Streak'i](https://github-readme-streak-stats.herokuapp.com/?user=magcabay&theme=tokyonight)](https://github.com/magcabay)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magcabay&theme=tokyonight" alt="Miraç'ın GitHub Streak'i" />
-</p>
+</div>
 
 ### 📫 İletişim
 
