@@ -26,7 +26,7 @@
 ## 👾 Ben kimim?
 
 ```java
-class Miraç extends Developer {
+class Miraç extends SoftwareEngineer {
 
   String[] odak = {
     "☕ Java & Clean Architecture",
