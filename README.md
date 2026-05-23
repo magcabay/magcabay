@@ -51,14 +51,12 @@
 ## 📊 GitHub Etkinliği
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=magcabay&theme=tokyonight&hide_border=true" alt="Miraç'ın GitHub Aktivite Grafiği" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magcabay/magcabay/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magcabay/magcabay/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/magcabay/magcabay/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=magcabay&repo=LINKEDIN_ADIN&theme=tokyonight" alt="Github Pinned Repo">
-</div>
-  
-<hr />
 
 <div align="center">
   <i>"İyi bir mühendis, sadece çalışan kod yazan değil, aynı zamanda güvenli ve sürdürülebilir sistemler inşa edendir."</i>
