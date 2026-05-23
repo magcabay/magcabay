@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:2ea8e0,100:39d353&height=250&section=header&text=Miraç%20Özcan%20Ağcabay&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=⚡%20Java%20Developer%20%7C%20Cybersecurity%20%7C%20IoT%20Builder&descAlignY=65&descSize=16&descColor=ffffffcc&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:2ea8e0,100:39d353&height=250&section=header&text=Miraç%20Özcan%20Ağcabay&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=⚡%20Yazılım%20Mühendisi%20%7C%20Cybersecurity%20%7C%20Akıllı%20Sistemler&descAlignY=65&descSize=16&descColor=ffffffcc&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA8E0&center=true&vCenter=true&random=false&width=600&lines=Yazılım+Mühendisliği+Öğrencisi+🎓;Java+%26+OOP+Meraklısı+☕;Siber+Güvenlik+Araştırmacısı+🔐;IoT+%26+Akıllı+Sistemler+🌿;Her+gün+bir+şey+öğren+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA8E0&center=true&vCenter=true&random=false&width=600&lines=Yazılım+Mühendisliği+Öğrencisi+🎓;Java+%26+OOP+Meraklısı+☕;Siber+Güvenlik+Araştırmacısı+🔐;Her+gün+bir+şey+öğren+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,7 +31,6 @@ class Miraç extends SoftwareEngineer {
   String[] odak = {
     "☕ Java & Clean Architecture",
     "🔐 Kriptoloji & Siber Güvenlik",
-    "🌿 IoT & Akıllı Sistemler",
     "📱 React Native & Web"
   };
 
@@ -90,6 +89,10 @@ class Miraç extends SoftwareEngineer {
 | 🔐 | **Pentest Araştırması** | Ağ güvenliği & kriptoloji keşif çalışmaları | Kali Linux · Nmap |
 
 </div>
+
+<br/>
+
+> 🔒 Bunların yanı sıra henüz canlıya alınmamış, private repolarımda geliştirmeye devam ettiğim projelerim de mevcut.
 
 <br/>
 
