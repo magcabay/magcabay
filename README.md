@@ -23,8 +23,6 @@
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
 ## 👾 Ben kimim?
 
 ```java
@@ -53,7 +51,7 @@ class Miraç extends Developer {
 }
 ```
 
-<br clear="right"/>
+
 
 ---
 
