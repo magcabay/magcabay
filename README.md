@@ -75,9 +75,9 @@ public class MiraçÖzcanAğcabay extends SoftwareEngineer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=magcabay&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
+<img height="160" src="https://github-stats-alpha.vercel.app/api?username=magcabay&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magcabay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magcabay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
 
 </div>
 
